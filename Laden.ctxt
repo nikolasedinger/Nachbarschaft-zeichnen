@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Laden
+comment1.params=pZf
+comment1.target=Laden(FrmZeichnen)
+comment2.params=
+comment2.target=void\ zeichnen()
+comment3.params=
+comment3.target=void\ lichterAnschalten()
+comment4.params=
+comment4.target=void\ lichterAusschalten()
+numComments=5
