@@ -11,4 +11,4 @@ PROJEKTZWECK: Es wird eine Nachbarschaft gezeichnet und ein Tageszyklus simulier
 VERSION oder DATUM: Version 4
 WIE IST DAS PROJEKT ZU STARTEN: Neues Objekt Bauanwendung erstellen, Methode allesZeichnen() 
 AUTOR(EN): Nikolas Edinger
-BENUTZERHINWEISE:
+
